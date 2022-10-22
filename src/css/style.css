@@ -1,0 +1,28 @@
+:root {
+    font-family: Helvetica;
+}
+.Card{
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    border-radius: 10px;
+    height: 240px;
+    width: 220px;
+    margin: auto;
+    margin-top: 10px;
+}
+.cardImg{
+    background-Color: red;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+.cardTitle{
+
+    color: white;
+    margin: auto;
+    margin-bottom: 5px;
+}
