@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/gravender/memory-card.git
-cd react-memory-card
+cd memory-card
 npm install
 npm run start
 ```
