@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.2099a1d6.css",
+    "main.js": "/memory-card/static/js/main.ff51b5f4.js",
+    "static/media/trainTrack.jpg": "/memory-card/static/media/trainTrack.95a702c563449255b285.jpg",
+    "static/media/tree.jpg": "/memory-card/static/media/tree.c6f0a83530de5146ce98.jpg",
+    "static/media/people.jpg": "/memory-card/static/media/people.4f752b91672e2d44fbe5.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.2099a1d6.css.map": "/memory-card/static/css/main.2099a1d6.css.map",
+    "main.ff51b5f4.js.map": "/memory-card/static/js/main.ff51b5f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2099a1d6.css",
+    "static/js/main.ff51b5f4.js"
+  ]
+}
