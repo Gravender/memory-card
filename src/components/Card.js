@@ -1,8 +1,8 @@
 import React from "react";
 const Card = (props) => {
-  const { imgSrc, title } = props;
+  const { id, imgSrc, title, onClick } = props;
   return (
-    <div className="Card">
+    <div onClick={onClick} key={id} className="Card">
       <img className="cardImg" src={imgSrc} alt="" />
       <h2 className="cardTitle">{title}</h2>
     </div>
